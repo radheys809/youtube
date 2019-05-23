@@ -4,8 +4,7 @@ Implementation-Version: 1.0
 Built-By: NPST\radhe.shyam
 Implementation-Vendor-Id: com.mkyong
 Build-Jdk: 1.8.0_201
-Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
- file-upload/
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-file-upload
 Created-By: Maven Integration for Eclipse
-Implementation-Vendor: Pivotal Software, Inc.
 
