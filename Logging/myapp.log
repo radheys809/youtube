@@ -1,0 +1,17 @@
+2019-04-15 09:51:29.876  INFO 3265 --- [main] com.example.LoggingApplication           : Starting LoggingApplication on sysadmin-radhe with PID 3265 (/home/local/NPST/radhe.shyam/NPSTworkbench/Logging/target/classes started by NPST\radhe.shyam in /home/local/NPST/radhe.shyam/NPSTworkbench/Logging)
+2019-04-15 09:51:30.023  INFO 3265 --- [main] com.example.LoggingApplication           : No active profile set, falling back to default profiles: default
+2019-04-15 09:51:31.977  INFO 3265 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$8318bc53] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-15 09:51:32.120  INFO 3265 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2019-04-15 09:51:32.795  INFO 3265 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-15 09:51:32.818  INFO 3265 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-15 09:51:32.818  INFO 3265 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-15 09:51:32.978  INFO 3265 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-15 09:51:32.978  INFO 3265 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2714 ms
+2019-04-15 09:51:33.257  INFO 3265 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-15 09:51:33.593  INFO 3265 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-15 09:51:33.597  INFO 3265 --- [main] com.example.LoggingApplication           : Started LoggingApplication in 4.939 seconds (JVM running for 7.264)
+2019-04-15 09:52:44.703  INFO 3265 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-15 09:52:44.726  INFO 3265 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-04-15 09:52:44.774  INFO 3265 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 47 ms
+2019-04-15 09:52:44.894  INFO 3265 --- [http-nio-8080-exec-2] com.example.logging.ArticleService       : INFO
+2019-04-15 09:53:11.749  INFO 3265 --- [http-nio-8080-exec-5] com.example.logging.ArticleService       : INFO
